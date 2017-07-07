@@ -19,3 +19,7 @@ SingleApplication might be usable in all environments where you find Qt.
 SingleApplication requires Qt 5.9.x or newer.
 
 Licence: LGPLv2
+
+
+/examples/loader/ MACOSX  can open file by drag from finder to app icon support on qt 5.9....
+
